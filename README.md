@@ -3,13 +3,13 @@
 
 ## Formação 📖
 
-Estou cursando Bacharelado em Ciência da Computação na Universidade Anhembi Morumbi e busco estar em constante aprendizado em meus estudos, complementando-os com cursos, pesquisas e projetos externos.
+Cursando Bacharelado em Ciência da Computação na Universidade Anhembi Morumbi e participando do Bootcamp da [DIO](https:///dio.me) | Santander 2024 - Backend com Java
 
 <br>
 
 ## Interesses 🎯
 
-Tenho grande aptidão pela área de backend, em especial, com a linguagem Java, da qual tenho me empenhado para dominá-la.
+Focado no backend e aprofundando na linguagem Java.
 
 <br>
 
@@ -42,7 +42,3 @@ Tenho grande aptidão pela área de backend, em especial, com a linguagem Java, 
 <p>
 
 <br>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FabricioLopees&theme=transparent&bg_color=01162b&border_color=000&show_icons=true&icon_color=EEE&title_color=EEE&text_color=EEE">
-</p>
